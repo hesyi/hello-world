@@ -1,3 +1,3 @@
 # hello-world
-此存储库用于练习 GitHub 流
+此存储库用于练习 GitHub 流/n
 Hello everyone,this is my first time to learn github,nice to meet you~
